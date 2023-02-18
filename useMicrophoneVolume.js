@@ -17,7 +17,7 @@ async function setupMicrophonePermission(cb) {
 }
 
 /**
- * useMicrophoneVolume - A React hook to subscribe to microphone volume
+ * useMicrophoneVolume - A React hook to subscribe to microphone volume changes
  *
  * This hook can listen to changes in the browser microphone volume and return the current volume.
  * It triggers a permission intent so that the user can approve.
