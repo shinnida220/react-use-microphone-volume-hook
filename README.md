@@ -1,6 +1,6 @@
 # Welcome to react-use-microphone-volume-hook 👋
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.0.2-blue.svg?cacheSeconds=2592000)
 
 > A React hook to subscribe to microphone volume changes
 
@@ -39,6 +39,7 @@ startTrackingMicrophoneVolume(); // returns true on success, false on error
 ```
 
 Please check here for a sample usage
+[Sample App](docs/App.js)
 <a name="docs/App.js"></a>
 
 ## Author
