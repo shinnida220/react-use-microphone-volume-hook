@@ -1,6 +1,6 @@
 {
 	"name": "react-use-microphone-volume-hook",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A React hook to subscribe to microphone volume changes",
 	"main": "useMicrophoneVolume.js",
 	"repository": "https://github.com/shinnida220/react-use-microphone-volume-hook",
@@ -8,7 +8,7 @@
 	"license": "MIT",
 	"private": false,
 	"peerDependencies": {
-		"react": "^16.13.1"
+		"react": "^18.0.0"
 	},
 	"keywords": [
 		"react",
